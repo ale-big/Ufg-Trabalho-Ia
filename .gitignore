@@ -8,3 +8,5 @@ __pycache__/
 # Env & config
 .env
 venv/
+#database
+db.sqlite3
