@@ -1,4 +1,4 @@
-# My AI Project
+# Projeto de IA para atendimento do SAC
 
 API desenvolvida em **Django + Django Rest Framework**, utilizando **Groq** como LLM para:
 1. **Análise de Sentimento** (texto do SAC)
